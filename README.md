@@ -24,6 +24,8 @@ The **Hotel and Room Performance** offers:
 - Breakdown of successful bookings by room class.
 - Key metrics comparisons between weekdays and weekends.
 
+  ## Live Dashboard - [Link](https://app.powerbi.com/view?r=eyJrIjoiZmNjZDVhM2QtMjA5ZS00NDQzLTliOWQtNzFjOTQ2ZmFkNWNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Key Learnings from the Project
 - **Formulating DAX Measures and Columns**: Created efficient DAX calculations to analyze and present data effectively.
 - **Generating Calculated Columns**: Built calculated columns to support analysis and reporting.
