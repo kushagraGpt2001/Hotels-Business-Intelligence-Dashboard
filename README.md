@@ -3,6 +3,9 @@
 ## Problem Statement
 AtliQ Hotels, a chain of 5⭐ hotels across India, has been a key player in the hospitality domain for the past 20 years. However, due to strategic moves by competitors and ineffective management decisions, the company is losing market share and revenue. To regain their competitive edge, the director decided to incorporate "Business and Data Intelligence" for data-driven decision-making. Since AtliQ Hotels does not have an in-house Data Analytics team, they hired a third-party service provider to analyze their historical data and provide actionable insights.
 
+## Live Dashboard - [Link](https://app.powerbi.com/view?r=eyJrIjoiZmNjZDVhM2QtMjA5ZS00NDQzLTliOWQtNzFjOTQ2ZmFkNWNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
 ## Project Objective
 As a Data Analyst, I was tasked with:
 - Analyzing the provided sample data.
@@ -24,8 +27,6 @@ The **Hotel and Room Performance** offers:
 - Breakdown of successful bookings by room class.
 - Key metrics comparisons between weekdays and weekends.
 
-  ## Live Dashboard - [Link](https://app.powerbi.com/view?r=eyJrIjoiZmNjZDVhM2QtMjA5ZS00NDQzLTliOWQtNzFjOTQ2ZmFkNWNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
 ## Key Learnings from the Project
 - **Formulating DAX Measures and Columns**: Created efficient DAX calculations to analyze and present data effectively.
 - **Generating Calculated Columns**: Built calculated columns to support analysis and reporting.
@@ -33,6 +34,9 @@ The **Hotel and Room Performance** offers:
 - **Applying Conditional Formatting**: Enhanced dashboard readability and impact by using conditional formatting.
 - **Utilizing Heatmaps**: Visualized total bookings by platforms with heatmaps for quick insights.
 - **Power BI Service**: Published and shared the dashboard via Power BI Service for collaborative decision-making.
+
+## Live Dashboard - [Link](https://app.powerbi.com/view?r=eyJrIjoiZmNjZDVhM2QtMjA5ZS00NDQzLTliOWQtNzFjOTQ2ZmFkNWNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
 ## Tools and Technologies
 - **Power BI**: For dashboard creation and sharing insights.
